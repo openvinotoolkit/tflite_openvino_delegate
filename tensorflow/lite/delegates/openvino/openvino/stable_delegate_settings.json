@@ -1,0 +1,6 @@
+{
+  "stable_delegate_loader_settings": {
+    "delegate_path": "bazel-bin/tensorflow/lite/delegates/openvino/libtensorflowlite_openvino_stable_delegate.so"
+  }
+  // Add concrete delegate settings for the openvino delegate.
+}
